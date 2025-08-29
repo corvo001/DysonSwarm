@@ -42,7 +42,7 @@ The approach here does not attempt a rigid shell (impossible with current techno
 
 ---
 
-## ⚠ Risks and Challenges
+##  Risks and Challenges
 - Collision control among millions of satellites.  
 - Long-term orbital stability.  
 - Heat and radiation management.  
