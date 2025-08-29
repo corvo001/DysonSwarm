@@ -3,9 +3,9 @@
 ##  Visuals
 
 <p align="center">
-  <img src="images/DysonSphere.png" alt="Dyson Sphere Render 1" width="280"/>
-  <img src="images/render2.png" alt="Dyson Sphere HUD" width="280"/>
-  <img src="images/render3.png" alt="Dyson Sphere Close-up" width="280"/>
+  <img src="images/DysonSphere.png" width="280"/>
+  <img src="images/DysonSphere_2.png" width="280"/>
+  <img src="images/DysonSphere_3.png" width="280"/>
 </p>
 
 ---
