@@ -1,0 +1,3 @@
+C:/Users/Dani_/Desktop/all/work/dyson/build/CMakeFiles/DysonSwarm.dir
+C:/Users/Dani_/Desktop/all/work/dyson/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dani_/Desktop/all/work/dyson/build/CMakeFiles/ZERO_CHECK.dir

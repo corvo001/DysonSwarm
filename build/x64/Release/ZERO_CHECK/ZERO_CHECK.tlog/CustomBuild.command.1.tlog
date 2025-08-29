@@ -1,0 +1,10 @@
+^C:\USERS\DANI_\DESKTOP\ALL\WORK\DYSON\BUILD\CMAKEFILES\A5467F685DAD877F7CC5BDA85B218F9E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dani_/Desktop/all/work/dyson -BC:/Users/Dani_/Desktop/all/work/dyson/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Dani_/Desktop/all/work/dyson/build/DysonSwarm.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
