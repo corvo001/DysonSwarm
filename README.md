@@ -6,7 +6,7 @@
 </p>
 
 ##  Description
-This project explores the design and development of a **Dyson Sphere**, a theoretical megastructure aimed at capturing and harnessing the full energy output of a star.  
+This project explores the design and development of a **Dyson Swarm**, a theoretical megastructure aimed at capturing and harnessing the full energy output of a star.  
 The approach here does not attempt a rigid shell (impossible with current technology), but rather a **fractal modular swarm** of self-replicating collector satellites, capable of scaling in both number and efficiency.
 
 ---
