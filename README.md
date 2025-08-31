@@ -1,8 +1,8 @@
 # 🌌 Dyson Swarm Project
 <p align="center">
-  <img src="images/DysonSphere.png" width="280"/>
-  <img src="images/DysonSphere_2.png" width="280"/>
-  <img src="images/DysonSphere_3.png" width="280"/>
+  <img src="images/DysonSwarm.png" width="280"/>
+  <img src="images/DysonSwarm_2.png" width="280"/>
+  <img src="images/DysonSwarm_3.png" width="280"/>
 </p>
 
 ##  Description
