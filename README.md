@@ -1,4 +1,4 @@
-# 🌌 Dyson Swarm Project
+#  Dyson Swarm Project
 <p align="center">
   <img src="images/DysonSwarm.png" width="280"/>
   <img src="images/DysonSwarm_2.png" width="280"/>
