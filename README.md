@@ -1,4 +1,5 @@
-#  Dyson Swarm Project
+<h1 align="center">Dyson Swarm Project</h1>
+
 <p align="center">
   <img src="images/DysonSwarm.png" width="280"/>
   <img src="images/DysonSwarm_2.png" width="280"/>
@@ -13,12 +14,12 @@ The project explores swarm expansion, orbital coordination, energy collection, a
 
 ## Core Concepts
 
-* Modular collector satellites
-* Heliocentric orbital simulation
-* Swarm coordination
-* Collision avoidance
-* Stellar energy collection
-* Autonomous expansion
+- Modular collector satellites
+- Heliocentric orbital simulation
+- Swarm coordination
+- Collision avoidance
+- Stellar energy collection
+- Autonomous expansion
 
 ## Roadmap
 
@@ -30,9 +31,9 @@ The project explores swarm expansion, orbital coordination, energy collection, a
 
 ## Future
 
-* Autonomous replication
-* Interstellar swarms
-* Shkadov thruster concepts
+- Autonomous replication
+- Interstellar swarms
+- Shkadov thruster concepts
 
 ## License
 
