@@ -1,56 +1,40 @@
-<div align="center">
+<h1 align="center">Dyson Swarm Project</h1>
 
-<h1>Dyson Swarm Project</h1>
-
-<p>
+<p align="center">
   <img src="images/DysonSwarm.png" width="280"/>
   <img src="images/DysonSwarm_2.png" width="280"/>
   <img src="images/DysonSwarm_3.png" width="280"/>
 </p>
 
-<h2>Description</h2>
+## Description
 
-<p>
-A theoretical <strong>Dyson Swarm simulator</strong> based on a modular network of
-collector satellites orbiting a star.
-</p>
+A theoretical **Dyson Swarm simulator** based on a modular network of collector satellites orbiting a star.
 
-<p>
-The project explores swarm expansion, orbital coordination, energy collection,
-and large-scale autonomous infrastructure.
-</p>
+The project explores swarm expansion, orbital coordination, energy collection, and large-scale autonomous infrastructure.
 
-<h2>Core Concepts</h2>
+## Core Concepts
 
-<p>
-Modular collector satellites<br>
-Heliocentric orbital simulation<br>
-Swarm coordination<br>
-Collision avoidance<br>
-Stellar energy collection<br>
-Autonomous expansion
-</p>
+- Modular collector satellites
+- Heliocentric orbital simulation
+- Swarm coordination
+- Collision avoidance
+- Stellar energy collection
+- Autonomous expansion
 
-<h2>Roadmap</h2>
+## Roadmap
 
-<p>
-1. Basic orbital simulation<br>
-2. Collector deployment<br>
-3. Swarm coordination<br>
-4. Energy network<br>
+1. Basic orbital simulation
+2. Collector deployment
+3. Swarm coordination
+4. Energy network
 5. Large-scale expansion
-</p>
 
-<h2>Future</h2>
+## Future
 
-<p>
-Autonomous replication<br>
-Interstellar swarms<br>
-Shkadov thruster concepts
-</p>
+- Autonomous replication
+- Interstellar swarms
+- Shkadov thruster concepts
 
-<h2>License</h2>
+## License
 
-<p>MIT License.</p>
-
-</div>
+MIT License.
