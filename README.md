@@ -1,8 +1,8 @@
 <h1 align="center">Dyson Swarm</h1>
 
-https://github.com/user-attachments/assets/83164d34-512d-4ebb-ac31-811e5fa08449
-
-*20,000 collector satellites in real-time elliptical orbits.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f52e7d8d-4ea9-413c-b7c7-97f14cc073ad" alt="Dyson Swarm orbital simulation in motion" width="800" />
+</p>
 
 ## Description
 
