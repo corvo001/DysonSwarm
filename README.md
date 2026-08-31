@@ -1,4 +1,4 @@
-<h1 align="center">Dyson Swarm Project</h1>
+<h1 align="center">Dyson Swarm</h1>
 
 <p align="center">
   <img src="images/DysonSwarm.png" width="280"/>
