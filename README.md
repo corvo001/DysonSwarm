@@ -10,6 +10,8 @@ A theoretical **Dyson Swarm simulator** based on a modular network of collector 
 
 The project explores swarm expansion, orbital coordination, energy collection, and large-scale autonomous infrastructure.
 
+[View the full project on CORVO](https://corvo01.com/en/work/dyson-swarm/)
+
 ## Core Concepts
 
 - Modular collector satellites
