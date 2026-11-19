@@ -10,6 +10,8 @@ A theoretical **Dyson Swarm simulator** based on a modular network of collector 
 
 The project explores swarm expansion, orbital coordination, energy collection, and large-scale autonomous infrastructure.
 
+Developed by Daniel Cuervo under the [CORVO](https://corvo01.com/) brand.
+
 [View the full project on CORVO](https://corvo01.com/en/work/dyson-swarm/)
 
 ## Core Concepts
