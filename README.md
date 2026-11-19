@@ -8,7 +8,7 @@
 
 A theoretical **Dyson Swarm simulator** based on a modular network of collector satellites orbiting a star.
 
-Developed by Daniel Cuervo under the [CORVO](https://corvo01.com/) brand.
+Developed by [Daniel Cuervo](https://corvo01.com/es/sobre-mi/) under the [CORVO](https://corvo01.com/) brand.
 
 [Proyecto en español](https://corvo01.com/es/proyectos/dyson-swarm/) ·
 [Project in English](https://corvo01.com/en/work/dyson-swarm/)
